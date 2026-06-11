@@ -117,4 +117,3 @@ cvs = tkinter.Canvas(width=600, height=600, bg="white")
 cvs.pack()
 masume()
 root.mainloop()
-
